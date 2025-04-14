@@ -5,6 +5,7 @@
 {4dee530e-fb3d-4f79-97bf-3e2f77cbda78} bank:/MainMenuUI
 {fcb8f05f-f702-4c4c-b986-efc65de01f21} bank:/Master
 {64a5d08b-8679-000e-3fcf-6538ac1319b9} bank:/Master.strings
+{c6aad4ea-c47a-4895-908f-1d8a51a16bd8} bank:/TestBank
 {fc33b134-3a64-41cf-8858-3f91f8a44cc5} bus:/
 {002dcfd8-4be3-4c48-b99c-cf15b2add332} bus:/Ambiences
 {f8611cca-ddf4-4c8b-9567-27a7189823ef} bus:/BattleSFX
