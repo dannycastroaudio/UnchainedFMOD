@@ -14,6 +14,7 @@
 {48fae7f6-b6ca-4455-ba5f-ddf421475e26} bus:/Outside Reverb
 {aeae87e7-fcd2-46bb-b40f-b82aff9f4948} event:/Ambiences/Ambiences Stereo
 {7ba93daf-eb81-44ee-b328-da551d56a1c6} event:/Dialogue/test_vo
+{f2e4b9ef-fb9a-455d-995a-c667c4ccba1c} event:/Dialogue/test_vo 2
 {2dad4354-2e71-4efe-99ab-107491edea17} event:/SFX/Battle SFX/battle_blade_med
 {f6745f58-8fe6-48b9-8c4b-1cbb3f1e9757} event:/SFX/Battle SFX/battle_blade_strong
 {7bc3e48c-b44f-46e3-bc35-2b0658272de5} event:/SFX/Battle SFX/battle_blade_weak
