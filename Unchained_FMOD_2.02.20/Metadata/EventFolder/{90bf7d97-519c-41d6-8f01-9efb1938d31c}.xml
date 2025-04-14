@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{90bf7d97-519c-41d6-8f01-9efb1938d31c}">
+		<property name="name">
+			<value>BattleUI SFX</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f5e83468-618c-41d0-a5d7-d5c894078f6b}</destination>
+		</relationship>
+	</object>
+</objects>

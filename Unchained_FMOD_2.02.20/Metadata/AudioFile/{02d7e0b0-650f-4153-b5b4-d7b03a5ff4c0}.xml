@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{02d7e0b0-650f-4153-b5b4-d7b03a5ff4c0}">
+		<property name="assetPath">
+			<value>FinalVersionAssets/BattleUI_Final/battleUI_attack_select_var1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.1830000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e187ebab-538a-4e2e-874a-e299f1b537a1}</destination>
+		</relationship>
+	</object>
+</objects>

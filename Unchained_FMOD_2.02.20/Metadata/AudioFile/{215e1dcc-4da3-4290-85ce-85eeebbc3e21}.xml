@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{215e1dcc-4da3-4290-85ce-85eeebbc3e21}">
+		<property name="assetPath">
+			<value>FinalVersionAssets/BattleSFX_Final/battle_pierce_strong.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e187ebab-538a-4e2e-874a-e299f1b537a1}</destination>
+		</relationship>
+	</object>
+</objects>

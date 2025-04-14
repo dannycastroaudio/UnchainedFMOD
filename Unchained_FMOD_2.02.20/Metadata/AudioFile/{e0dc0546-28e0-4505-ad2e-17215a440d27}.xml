@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e0dc0546-28e0-4505-ad2e-17215a440d27}">
+		<property name="assetPath">
+			<value>FinalVersionAssets/BattleSFX_Final/battle_conflict_begin.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e187ebab-538a-4e2e-874a-e299f1b537a1}</destination>
+		</relationship>
+	</object>
+</objects>

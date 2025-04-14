@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7e1d5401-fad0-445e-b7d5-44fae4a4c567}">
+		<property name="assetPath">
+			<value>FinalVersionAssets/Ambiences_Final/amb_fog_outside.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>20.475999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e187ebab-538a-4e2e-874a-e299f1b537a1}</destination>
+		</relationship>
+	</object>
+</objects>
