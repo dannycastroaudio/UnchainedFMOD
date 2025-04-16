@@ -2,10 +2,10 @@
 {f46c1aa8-a97e-429f-8f00-ee8400de76f5} bank:/Battle
 {0a45ce8f-0759-4c8d-990e-46c823e7dee9} bank:/BattleUI
 {d1f93b53-ce56-4768-b0ef-fa3a612ffccc} bank:/Dialogue
+{9bc65e32-ee3a-419d-ab29-bd2b44bc3c45} bank:/Footsteps
 {4dee530e-fb3d-4f79-97bf-3e2f77cbda78} bank:/MainMenuUI
 {fcb8f05f-f702-4c4c-b986-efc65de01f21} bank:/Master
 {64a5d08b-8679-000e-3fcf-6538ac1319b9} bank:/Master.strings
-{c6aad4ea-c47a-4895-908f-1d8a51a16bd8} bank:/TestBank
 {fc33b134-3a64-41cf-8858-3f91f8a44cc5} bus:/
 {002dcfd8-4be3-4c48-b99c-cf15b2add332} bus:/Ambiences
 {f8611cca-ddf4-4c8b-9567-27a7189823ef} bus:/BattleSFX
@@ -15,7 +15,6 @@
 {48fae7f6-b6ca-4455-ba5f-ddf421475e26} bus:/Outside Reverb
 {aeae87e7-fcd2-46bb-b40f-b82aff9f4948} event:/Ambiences/Ambiences Stereo
 {7ba93daf-eb81-44ee-b328-da551d56a1c6} event:/Dialogue/test_vo
-{f2e4b9ef-fb9a-455d-995a-c667c4ccba1c} event:/Dialogue/test_vo 2
 {2dad4354-2e71-4efe-99ab-107491edea17} event:/SFX/Battle SFX/battle_blade_med
 {f6745f58-8fe6-48b9-8c4b-1cbb3f1e9757} event:/SFX/Battle SFX/battle_blade_strong
 {7bc3e48c-b44f-46e3-bc35-2b0658272de5} event:/SFX/Battle SFX/battle_blade_weak
@@ -52,9 +51,12 @@
 {b908fdd4-420d-44f1-8bd4-19c3518820f9} event:/SFX/BattleUI SFX/battleUI_undo_move
 {9accef98-bca9-4edf-ae72-11d01d7e06bb} event:/SFX/BattleUI SFX/battleUI_window_open
 {a4049e86-a545-4db5-990b-e0232a788e08} event:/SFX/BattleUI SFX/windowUI_close_universal
+{8398c76d-f21d-416c-8393-2fdd524f123e} event:/SFX/Footsteps/fs_run
+{414cb200-5f84-4461-aed4-db946e1f9e17} event:/SFX/Footsteps/fs_walk
 {533eebbd-8635-454a-8f9e-149dae6deda8} event:/UI/MainMenu/menu_back
 {e8b37b49-53c9-45cd-88ce-845dea00a30f} event:/UI/MainMenu/menu_begin
 {ae234b45-c3a0-4ea0-8975-b2bbd64ee23a} event:/UI/MainMenu/menu_hover
 {ea24cd34-f25f-4956-9652-3f2309f52231} event:/UI/MainMenu/menu_select
-{5a788457-8d49-41b4-8504-e9685e528aae} parameter:/Zones
+{5a788457-8d49-41b4-8504-e9685e528aae} parameter:/amb_Zones
+{f495f8d2-cb99-4220-bd04-a9aa2e215dc6} parameter:/footstep_terrain
 {a5a8f44d-d773-4ec0-b5f9-fd17cbf12c30} snapshot:/Overworld
