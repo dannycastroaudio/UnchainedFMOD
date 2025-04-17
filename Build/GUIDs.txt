@@ -124,6 +124,7 @@
 {e8b37b49-53c9-45cd-88ce-845dea00a30f} event:/UI/MainMenu/menu_begin
 {ae234b45-c3a0-4ea0-8975-b2bbd64ee23a} event:/UI/MainMenu/menu_hover
 {ea24cd34-f25f-4956-9652-3f2309f52231} event:/UI/MainMenu/menu_select
+{73aa6157-4079-4cd9-8b12-22b197bbefdf} parameter:/MusicSwitch
 {5a788457-8d49-41b4-8504-e9685e528aae} parameter:/amb_Zones
 {f495f8d2-cb99-4220-bd04-a9aa2e215dc6} parameter:/footstep_terrain
 {a5a8f44d-d773-4ec0-b5f9-fd17cbf12c30} snapshot:/Overworld
