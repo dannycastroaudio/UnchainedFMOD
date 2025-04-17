@@ -17,9 +17,9 @@
 {949cb683-8154-4aa9-acb4-fba87c3667c5} bus:/MainMenuUI
 {48fae7f6-b6ca-4455-ba5f-ddf421475e26} bus:/Outside Reverb
 {aeae87e7-fcd2-46bb-b40f-b82aff9f4948} event:/Ambiences/Ambiences Stereo
-{06085bbc-a110-4b43-bad3-7348774063f8} event:/Dialogue/vx_L1_Seq1
-{7430867a-e6b4-4f5f-bb59-631eaf171264} event:/Dialogue/vx_L1_Seq2
-{e79e4b7f-ce17-40f5-aec7-85b56d209fcc} event:/Dialogue/vx_L1_Seq3
+{06085bbc-a110-4b43-bad3-7348774063f8} event:/Dialogue/Programmer_Instms/vx_L1_Seq1
+{7430867a-e6b4-4f5f-bb59-631eaf171264} event:/Dialogue/Programmer_Instms/vx_L1_Seq2
+{e79e4b7f-ce17-40f5-aec7-85b56d209fcc} event:/Dialogue/Programmer_Instms/vx_L1_Seq3
 {b32d4318-3bfd-48e2-996b-34dd8854729a} event:/MX/MX
 {2dad4354-2e71-4efe-99ab-107491edea17} event:/SFX/Battle SFX/battle_blade_med
 {f6745f58-8fe6-48b9-8c4b-1cbb3f1e9757} event:/SFX/Battle SFX/battle_blade_strong
