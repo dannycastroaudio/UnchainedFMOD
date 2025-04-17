@@ -17,8 +17,10 @@
 {f8611cca-ddf4-4c8b-9567-27a7189823ef} bus:/BattleSFX
 {6ab01fed-7eb5-40e8-9baf-ef3815769336} bus:/BattleUI
 {272514f2-60a2-46fd-b4d7-434eeeff3ec4} bus:/Fog Reverb
+{409592a6-b93f-4a3b-8ef7-a79565b2aa32} bus:/Footsteps
 {949cb683-8154-4aa9-acb4-fba87c3667c5} bus:/MainMenuUI
 {48fae7f6-b6ca-4455-ba5f-ddf421475e26} bus:/Outside Reverb
+{36eab864-51d7-4d4a-83ff-79f771cb7d69} bus:/VX
 {aeae87e7-fcd2-46bb-b40f-b82aff9f4948} event:/Ambiences/Ambiences Stereo
 {06085bbc-a110-4b43-bad3-7348774063f8} event:/Dialogue/Programmer_Instms/vx_L1_Seq1
 {7430867a-e6b4-4f5f-bb59-631eaf171264} event:/Dialogue/Programmer_Instms/vx_L1_Seq2
