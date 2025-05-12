@@ -151,9 +151,10 @@
 {a4049e86-a545-4db5-990b-e0232a788e08} event:/SFX/BattleUI SFX/windowUI_close_universal
 {8398c76d-f21d-416c-8393-2fdd524f123e} event:/SFX/Footsteps/fs_run
 {414cb200-5f84-4461-aed4-db946e1f9e17} event:/SFX/Footsteps/fs_walk
+{3c7bff29-9dff-4e3f-b208-72f8c55318e9} event:/SFX/WorldSounds/world_crumbling_rocks
 {cebb6a9c-efaa-4cb7-8645-a566ad7bc944} event:/SFX/WorldSounds/world_river
 {40dd40ee-a9e9-4a2a-9b43-ae4057f99476} event:/SFX/WorldSounds/world_waterfall
-{a49e6008-d035-4abe-ba0b-18ff3dbbadc9} event:/SFX/WorldSounds/worlld_waterwheel
+{a49e6008-d035-4abe-ba0b-18ff3dbbadc9} event:/SFX/WorldSounds/world_waterwheel
 {533eebbd-8635-454a-8f9e-149dae6deda8} event:/UI/MainMenu/menu_back
 {e8b37b49-53c9-45cd-88ce-845dea00a30f} event:/UI/MainMenu/menu_begin
 {ae234b45-c3a0-4ea0-8975-b2bbd64ee23a} event:/UI/MainMenu/menu_hover
