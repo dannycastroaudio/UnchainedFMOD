@@ -6,6 +6,7 @@
 {0a45ce8f-0759-4c8d-990e-46c823e7dee9} bank:/SFX/BattleUI
 {9bc65e32-ee3a-419d-ab29-bd2b44bc3c45} bank:/SFX/Footsteps
 {4dee530e-fb3d-4f79-97bf-3e2f77cbda78} bank:/SFX/MainMenuUI
+{6a07e155-3231-4c33-8208-432afa63dafa} bank:/SFX/WorldSounds
 {1650cf63-7e96-4e16-8dc1-c972227a29d7} bank:/VX/DialogueEvents/VX_L1_S1
 {bf96569c-d60a-43a5-88d8-3ea1169ac032} bank:/VX/DialogueEvents/VX_L1_S2
 {dd9fe4f9-6cb9-42f4-b351-7c72c5ef186f} bank:/VX/DialogueEvents/VX_L1_S3
@@ -150,6 +151,8 @@
 {a4049e86-a545-4db5-990b-e0232a788e08} event:/SFX/BattleUI SFX/windowUI_close_universal
 {8398c76d-f21d-416c-8393-2fdd524f123e} event:/SFX/Footsteps/fs_run
 {414cb200-5f84-4461-aed4-db946e1f9e17} event:/SFX/Footsteps/fs_walk
+{cebb6a9c-efaa-4cb7-8645-a566ad7bc944} event:/SFX/WorldSounds/world_river
+{40dd40ee-a9e9-4a2a-9b43-ae4057f99476} event:/SFX/WorldSounds/world_waterfall
 {533eebbd-8635-454a-8f9e-149dae6deda8} event:/UI/MainMenu/menu_back
 {e8b37b49-53c9-45cd-88ce-845dea00a30f} event:/UI/MainMenu/menu_begin
 {ae234b45-c3a0-4ea0-8975-b2bbd64ee23a} event:/UI/MainMenu/menu_hover
